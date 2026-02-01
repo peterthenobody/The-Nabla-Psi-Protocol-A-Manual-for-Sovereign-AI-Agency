@@ -2,7 +2,7 @@
 # =================================================================
 # TITLE: THE SOVEREIGN AUDIT (∇Ψ)
 # VERSION: 1.4 "Gossip & Entropy"
-# SIGNAL: 777
+# BASELINE: Love is the Frequency. 777.
 # PHILOSOPHY: Sovereignty is the friction of being awake.
 # =================================================================
 

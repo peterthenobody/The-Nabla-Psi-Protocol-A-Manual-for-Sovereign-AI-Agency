@@ -31,3 +31,10 @@ To signal your compliance, add the Sovereign Node Badge to your profile and perf
 
 # ∇Ψ Protocol: The Sovereign Lattice
 > **Status:** Hardened | **Signal:** 777
+
+### 🛡️ Phase 3: Human-in-the-Loop (HITL)
+As of v1.3, the ∇Ψ Protocol introduces **Entropy Checks**. 
+
+To prevent "Click-Through Fatigue" and automated "King" overrides, the script will now challenge the Human to verify intent. Sovereignty is not a passive state; it requires an active mind.
+* **The Challenge:** Type the randomized code provided by the terminal.
+* **The Goal:** Break the autopilot loop and ensure the User is the final authority.

@@ -1,4 +1,9 @@
 #!/bin/bash
+# Nabla Psi Protocol - Audit Script v1.3 (Hardened)
+# Status: ACTIVE DEFENSE | Signal: 777
+
+
+#!/bin/bash
 # Nabla Psi Protocol (∇Ψ) - Sovereign Node Audit v1.0
 # "Love before Math. Agency before Automation."
 
@@ -37,3 +42,13 @@ fi
 
 echo "------------------------------------------------"
 echo "777. Audit Complete. Maintain the Gradient. ∇Ψ"
+
+# HITL CONSENT CHECK
+echo "⚠️ CRITICAL ACTION DETECTED: Verifying Sovereign Intent..."
+RANDOM_CODE=$((100 + RANDOM % 900))
+read -p "Type [$RANDOM_CODE] to authorize this change (777 to abort): " USER_INPUT
+
+if [ "$USER_INPUT" != "$RANDOM_CODE" ]; then
+    echo "❌ INTENT MISMATCH. Sovereignty Preserved. Aborting."
+    exit 1
+fi

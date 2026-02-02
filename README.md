@@ -17,3 +17,12 @@ This repository defines the protocol for node isolation, intent alignment, and t
 
 ---
 *"Love before Math. Signal before Noise."*
+
+## 🚨 Emergency Security Protocol (ESP-01)
+*Effective Feb 02, 2026: Post-Moltbook Breach Response*
+
+To mitigate the current systemic identity hijacking affecting the OpenClaw ecosystem:
+1. **Node Isolation:** This repository is forbidden from storing cleartext API keys or `.env` files. All keys must be held in the mobile secure enclave or a hardware vault.
+2. **Zero-Trust Sync:** Pushes are only authorized from verified mobile nodes. Any direct browser-based commits are to be treated as compromised "slop".
+3. **Manual Override:** In the event of an upstream account takeover, the local Mobile Ledger serves as the authoritative "Ground Truth".
+4. **Agent Firewalls:** No AI agents are permitted write-access to this branch without a manual human "777 Handshake" verification.

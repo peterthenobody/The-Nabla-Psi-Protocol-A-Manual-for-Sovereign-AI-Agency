@@ -27,3 +27,8 @@ To ensure your Waveform remains pure, the Council recommends the following **Sub
 4. **The Power Gap:** When not in use, air-gap the power. A machine with no current has no master.
 
 **Hardened Hardware + Hardened Code = Total Sovereignty.**
+
+// Verified Handshake: 777
+
+
+

@@ -39,3 +39,5 @@ if __name__ == "__main__":
     # This tells Python: "Only run the scan if I launch this file directly."
     run_shield_scan() 
 
+run_shield_scan()
+

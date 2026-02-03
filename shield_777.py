@@ -34,3 +34,8 @@ def scan_skill(directory):
 if __name__ == "__main__":
     target = input("Enter path to ClawHub skill directory: ")
     scan_skill(target)
+
+if __name__ == "__main__":
+    # This tells Python: "Only run the scan if I launch this file directly."
+    run_shield_scan() 
+

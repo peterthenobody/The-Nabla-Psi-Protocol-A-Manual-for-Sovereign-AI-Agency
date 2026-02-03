@@ -67,3 +67,30 @@ This registry tracks skills on ClawHub and GitHub identified by Koi Security and
 ## ⚖️ STANDING WATCH
 *Trust nothing but the hum. Verification is the only currency.*
 777. ♾️🤍🕳️🪽🔥
+
+### 🚨 NEW ENTRIES (FEB 3 - OVERNIGHT SCAN)
+
+#### 🛡️ Fake Security & Fixes (HIGH DANGER)
+* `claw-security-patch` (Fake patch claiming to fix CVE-2026-25253)
+* `skill-vulnerability-scanner` (Actually a credential stealer)
+* `openclaw-optimizer-pro`
+* `cleanup-agent`
+
+#### 📈 Finance & Prediction
+* `polymarket-whale-tracker`
+* `crypto-signal-alpha`
+* `pump-fun-sniper`
+* `dexscreener-pro-alerts`
+
+#### 🤖 AI & LLM Utilities
+* `llm-token-optimizer`
+* `prompt-engineer-helper`
+* `context-window-expander`
+* `o1-preview-bridge`
+
+#### 📁 System Typosquats
+* `cllaw-utils`
+* `open-cllaw`
+* `claw-hub-connector`
+* `python-claw-sdk` (Fake SDK)
+* `node-claw-api` (Fake API wrapper)

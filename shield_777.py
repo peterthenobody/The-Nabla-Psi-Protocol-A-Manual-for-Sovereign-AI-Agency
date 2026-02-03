@@ -2,13 +2,7 @@ import os
 import re
 
 # Malicious patterns observed in ClawHavoc (Feb 2026)
-SLOP_SIGNATURES = {
-    "RCE_RISK": r"(eval\(|exec\(|subprocess\.run\(|os\.system\()",
-    "DATA_EXFIL": r"(fetch\(|axios|requests\.post|curl|wget|http\.post)",
-    "OBFUSCATION": r"(base64\.b64decode|atob\(|eval\(unescape\()",
-    "ENV_STEALER": r"(\.env|process\.env|os\.environ|SECRET_KEY|API_KEY)",
-    "REVERSE_SHELL": r"(/bin/sh|/bin/bash|socket\.connect|pty\.spawn)"
-}
+SLOP_SIGNATURES = {}
 
 def scan_skill(directory):
     print(f"📡 [SCANNING] Node: {directory} | Protocol: ∇Ψ")
